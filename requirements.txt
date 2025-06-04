@@ -1,6 +1,5 @@
-python~=3
 pandas
-requests~=2.31
+requests==2.31
 jinja2
 selenium
 tqdm
